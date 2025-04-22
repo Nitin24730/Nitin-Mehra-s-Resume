@@ -1,0 +1,180 @@
+body {
+    background: #121212;
+    color: #e0e0e0;
+    font-family: 'Fira Code', monospace;
+  }
+  a {
+    color: #00ffff;
+  }
+  
+  h1 {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+
+  h2 {
+    margin: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .profile-image{
+    width: 340px;
+    height: 380px;
+    border-radius: 30px;
+    align-items: self-end;
+    object-fit: cover;
+    margin: -80px 100px -35px 50px;
+  }
+
+.about {
+    display: flex;
+
+  }
+  .p1 {
+    margin: 5px  50px 0px 10px;
+    padding: 100px 40px 50px 40px ;
+   display: flex;
+    background-color: rgb(32, 30, 30);
+    border-radius: 20px;
+    background-size: 0px;
+    font-weight: 500px;
+    font-size: 20px;
+    content: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+  }
+  
+
+
+section > h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin: 50px;
+}
+
+.box1 {
+    border: 4px solid  rgb(32, 30, 30) ;
+    padding: 35px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+   
+
+    
+}
+.box2 {
+    border: 4px solid  rgb(32, 30, 30) ;
+    padding: 35px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    
+}
+.box3 {
+    border: 4px solid  rgb(32, 30, 30) ;
+    padding: 35px;
+    text-decoration: solid;
+    border-radius: 10px;
+    text-decoration: bold;
+    margin: 10px;
+    text-align: center;
+   
+}
+
+.div1 {
+    display: block;
+    gap: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+#exp {
+    margin: 50px;
+}
+
+.div2 {
+    
+    border: 4px solid  rgb(32, 30, 30) ;
+    padding: 50px;
+    text-decoration: solid;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+#back {
+    background-color: rgb(32, 30, 30);
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin: 10px;
+}
+
+.div3 {
+    margin: 50px;
+    padding: 0px;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.div3p {
+    padding: 30px 0px;
+    font-size: 20px;
+}
+
+.div4 {
+    display: inline;
+}
+
+
+.bo1 {
+    border: 4px solid  rgb(32, 30, 30) ;
+    padding: 35px ;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.bo2 {
+    border: 4px solid  rgb(32, 30, 30) ;
+    padding: 35px 100px;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px ;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    text-align: center;
+    padding: 40px;
+    background: #222;
+    color: #fff;
+    border-radius: 10px;
+  }
+  
